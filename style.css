@@ -22,7 +22,7 @@ h1 {
 
 .container {
   justify-content: center;
-  border: 30px pink groove;
+  border: 30px rgb(255, 235, 245) groove;
   width: 300px;
   height: 200px;
   background-color: rgb(184, 199, 100);
